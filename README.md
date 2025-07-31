@@ -1,5 +1,3 @@
-Based on the content of your uploaded Python file, which implements a basic convolutional neural network (CNN) using PyTorch for training and evaluating on the CIFAR-10 dataset, here is an English project introduction you can use:
-
 ---
 
 **Project Introduction**
