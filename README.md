@@ -5,3 +5,7 @@ This project presents the implementation of a convolutional neural network (CNN)
 The model is trained and evaluated using GPU acceleration when available, ensuring efficient performance. The training process is tracked using TensorBoard for visualization of loss and accuracy metrics. Key functionalities such as data loading with `DataLoader`, loss calculation using `CrossEntropyLoss`, and optimization with stochastic gradient descent (SGD) are integrated to support the model’s development lifecycle.
 
 The project emphasizes modular design and scalability, making it suitable for extension to more complex datasets or architectures. By saving model checkpoints after each training epoch, it ensures reproducibility and enables incremental improvements. This implementation serves as a foundational example for learners and practitioners interested in computer vision and deep learning with PyTorch.
+
+**Contributing**
+
+This code originally came from `小土堆`.
